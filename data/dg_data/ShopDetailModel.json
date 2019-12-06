@@ -1,12 +1,12 @@
 ﻿{
     "city": "深圳市",
     "dataType": 0,
-    "distance": 0,
+    "distance": 100,
     "getUserIInfoRes": {},
     "giftShopId": 0,
     "giftShopJumpUrl": "string",
-    "giftShopLogUrl": "string",
-    "giftShopName": "string",
+    "giftShopLogUrl": "https://raw.githubusercontent.com/UbunGit/TestRepo/master/image/girls/u%3D1726099465%2C2150941470%26fm%3D26%26gp%3D0.jpg",
+    "giftShopName": "大荔冬枣名称限制字数",
     "giftShopType": "string",
     "labels": [
         {
