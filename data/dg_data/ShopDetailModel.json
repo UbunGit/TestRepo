@@ -1,0 +1,39 @@
+﻿{
+    "city": "深圳市",
+    "dataType": 0,
+    "distance": 0,
+    "getUserIInfoRes": {},
+    "giftShopId": 0,
+    "giftShopJumpUrl": "string",
+    "giftShopLogUrl": "string",
+    "giftShopName": "string",
+    "giftShopType": "string",
+    "labels": [
+        {
+            "creTime": "2019-12-06T02:36:01.760Z",
+            "labelId": 0,
+            "lableName": "string",
+            "shopId": 0
+        }
+    ],
+    "latitude": 0,
+    "longitude": 0,
+    "mainScope": "string",
+    "products": [
+        {
+            "productFullTitle": "string",
+            "productId": 0,
+            "productMainImgUrl": "string",
+            "sellPrice": 0,
+            "skuId": 0,
+            "viewProductUrl": "string"
+        }
+    ],
+    "province": "string",
+    "shopAddress": "string",
+    "shopId": 0,
+    "shopLogUrl": "string",
+    "shopName": "string",
+    "squareLightFlg": 0,
+    "userId": 0
+}
