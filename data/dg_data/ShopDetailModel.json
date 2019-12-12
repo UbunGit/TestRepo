@@ -36,16 +36,6 @@
     "licensePhoto": "string",
     "longitude": 0,
     "mainScope": "string",
-    "products": [
-      {
-        "productFullTitle": "string",
-        "productId": 0,
-        "productMainImgUrl": "string",
-        "sellPrice": 0,
-        "skuId": 0,
-        "viewProductUrl": "string"
-      }
-    ],
     "province": "string",
     "shopAddress": "string",
     "shopId": 0,
