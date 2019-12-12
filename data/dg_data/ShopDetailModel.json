@@ -1,39 +1,57 @@
 ﻿{
-    "city": "深圳市",
+    "businessPhoneNo": "string",
+    "businessType": 0,
+    "businessTypeDesc": "string",
+    "city": "string",
+    "coupons": [
+      {
+        "couponContent": "string",
+        "couponNo": "string",
+        "cutAmount": 0
+      }
+    ],
+    "cutdownAmt": 0,
+    "cutdownType": 0,
+    "cutdownTypeDesc": "string",
     "dataType": 0,
-    "distance": 100,
+    "discountDesc": "string",
+    "discountValue": 0,
+    "distance": 0,
     "getUserIInfoRes": {},
     "giftShopId": 0,
     "giftShopJumpUrl": "string",
-    "giftShopLogUrl": "https://raw.githubusercontent.com/UbunGit/TestRepo/master/image/girls/u%3D1726099465%2C2150941470%26fm%3D26%26gp%3D0.jpg",
-    "giftShopName": "大荔冬枣名称限制字数",
+    "giftShopLogUrl": "string",
+    "giftShopName": "string",
     "giftShopType": "string",
+    "hasDiscount": 0,
     "labels": [
-        {
-            "creTime": "2019-12-06T02:36:01.760Z",
-            "labelId": 0,
-            "lableName": "标签",
-            "shopId": 0
-        }
+      {
+        "creTime": "2019-12-12T07:23:13.238Z",
+        "labelId": 0,
+        "lableName": "string",
+        "shopId": 0
+      }
     ],
     "latitude": 0,
+    "licensePhoto": "string",
     "longitude": 0,
     "mainScope": "string",
     "products": [
-        {
-            "productFullTitle": "string",
-            "productId": 0,
-            "productMainImgUrl": "string",
-            "sellPrice": 0,
-            "skuId": 0,
-            "viewProductUrl": "string"
-        }
+      {
+        "productFullTitle": "string",
+        "productId": 0,
+        "productMainImgUrl": "string",
+        "sellPrice": 0,
+        "skuId": 0,
+        "viewProductUrl": "string"
+      }
     ],
     "province": "string",
     "shopAddress": "string",
     "shopId": 0,
     "shopLogUrl": "string",
     "shopName": "string",
+    "shopPhoto": "string",
     "squareLightFlg": 0,
     "userId": 0
-}
+  }
